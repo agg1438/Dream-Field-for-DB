@@ -16,7 +16,7 @@
 <ul>
 <li>FW: <a href="../../hissatsutemple/dark-shot.php">Karanlık Şutu [Dark Shot]</a></li>
 <li>MF: <a href="../../hissatsutemple/dark-pass.php">Karanlık Pas [Dark Pass]</a></li>
-<li>FW: <a href="../../hissatsutemple/dark-tru.php">Karanlık Döngü [Dark Tru]</a></li>
+<li>FW: <a href="../../hissatsutemple/dark-tru.php">Karanlık Dönüş [Dark Turn]</a></li>
 </ul>
 </div>
 
