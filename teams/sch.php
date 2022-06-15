@@ -16,8 +16,8 @@
 <h2>Ana Kadro</h2>
 <ol>
 <li>[GK]: <a href="../../players/aleyna-delice.php">Aleyna Delice</a> ♀️</li>
-<li>[DF]: </li>
-<li>[DF]: </li>
+<li>[DF]: <a href="../../players/berhan-kaya.php">Berhan Kaya</a>♂️</li>
+<li>[DF]: <a href="../../players/aiko-matsukaze.php">Aiko Matsukaze</a> ♀️</li>
 <li>[DF]: </li>
 <li>[MF]: </li>
 <li>[MF]: </li>

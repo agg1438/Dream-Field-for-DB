@@ -16,6 +16,12 @@
 <div class="row">
 <div class="col-md-4">
 <h6 align="center">GK</h6>
+<h4 align="center"><a href="hissatsutemple/la-flamme.php">Alev</a></h4>
+<p align="center">La Flamme</p>
+</div>
+
+<div class="col-md-4">
+<h6 align="center">GK</h6>
 <h4 align="center"><a href="hissatsutemple/asenas-flame.php">Asena'nın Alevi</a></h4>
 <p align="center">Asena's Flame</p>
 </div>

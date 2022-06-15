@@ -3,14 +3,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="../css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="../css/bootstrap-reboot.min.css">
   </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="20">
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-   <a class="navbar-brand" href="../index.php">Dream Field</a>
+   <a class="navbar-brand" href="index.php">Dream Field</a>
   <ul class="navbar-nav">
     <li class="nav-item">
       <a class="nav-link" href="../index.php">Anasayfa</a>

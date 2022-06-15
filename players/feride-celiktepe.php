@@ -25,7 +25,10 @@
 <li>FW: BOŞ</li>
 
 <li>FW: <a href="../../hissatsutemple/demon-tornado.php">Şeytan Kasırgası [Demon Tornado]</a></li>
-<p><a href="../../players/keiko-sakura.php">Keiko Sakura</a> ♀️ 
+<p><a href="../../players/keiko-sakura.php">Keiko Sakura</a> ♀️</p>
+
+<li>FW: <a href="../../hissatsutemple/angel-sound.php">Melek Sesi [Angel Sound]</a></li>
+<p><a href="../../players/kemal-kiraz.php">Kemal Kiraz</a> ♂️</p>
 
 </div>
 </div>

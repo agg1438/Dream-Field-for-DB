@@ -22,6 +22,10 @@
 
 <div class="col-md-6">
 <h4 align="center">Çoklu</h4>
+<li>BOŞ</li>
+<li>BOŞ</li>
+<li>FW: <a href="../../hissatsutemple/angel-sound.php">Melek Sesi [Angel Sound]</a></li>
+<p><a href="../../players/feride-celiktepe.php">Feride Çeliktepe</a> ♀️</p>
 
 </div>
 </div>

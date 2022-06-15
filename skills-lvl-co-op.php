@@ -14,14 +14,23 @@
 </ul> 
 
 <div class="row">
+
 <div class="col-md-4">
-<h4 align="center">Elmas Ordu FC</h4>
-<p align="center">Diamond Army FC</p>
+<p align="center">FW</p>
+<h4 align="center"><a href="hissatsutemple/diamond-hurricane.php">Elmas Kasırgası</a></h4>
+<p align="center">Diamond Hurricane</p>
 </div>
 
 <div class="col-md-4">
-<h4 align="center">Bombacılar FC</h4>
-<p align="center">Bomb Humanity FC</p>
+<p align="center">FW</p>
+<h4 align="center"><a href="hissatsutemple/angel-sound.php">Melek Sesi</a></h4>
+<p align="center">Angel Sound</p>
+</div>
+
+<div class="col-md-4">
+<p align="center">FW</p>
+<h4 align="center"><a href="hissatsutemple/demon-sound.php">Şeytan Sesi</a></h4>
+<p align="center">Demon Sound</p>
 </div>
 
 </div>

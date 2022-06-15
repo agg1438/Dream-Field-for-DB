@@ -26,7 +26,7 @@
 <p><a href="../../players/mylene-rose.php">Myléne Rosé</a> ♀️ </p>
 
 <li>FW: <a href="../../hissatsutemple/demon-tornado.php">Şeytan Kasırgası [Demon Tornado]</a></li>
-<p><a href="../../players/feride-celiktepe.php">Feride Çeliktepe</a> ♀️ 
+<p><a href="../../players/feride-celiktepe.php">Feride Çeliktepe</a> ♀️
 
 </div>
 </div>
