@@ -16,7 +16,7 @@
 <ul>
 <li>DF: <a href="../../hissatsutemple/drifting-bomb.php">Bomba Kayışı [Drifting Bomb]</a></li>
 <li>GK: <a href="../../hissatsutemple/wing-save.php">Kanatlı Kurtarış [Wing Save]</a></li>
-<li>GK: <a href="../../hissatsutemple/la-flamme.php">Usta [The Master]</a></li>
+<li>GK: <a href="../../hissatsutemple/the-master.php">Usta [The Master]</a></li>
 </ul>
 </div>
 

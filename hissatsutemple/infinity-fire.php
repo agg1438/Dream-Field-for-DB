@@ -17,7 +17,7 @@
 <h4>Oyuncular</h4>
 <ul>
 <li><a href="../../players/asena-deniz.php">Asena Deniz</a> ♀️</li>
-<ul><li><a href="../../players/ayhan-gazi-gulcu.php">Ayhan Gazi Gülcü</a> ♂️</li><ul>
+<ul><li><a href="../../players/ayhan-gazi-gulcu.php">Ayhan Gazi Gülcü</a> ♂️</li></ul>
 </ul>
 
 </div>

@@ -16,7 +16,7 @@
 <p>X oyuncu topu havaya atar, sonra y oyuncu zıplar. O da topu çarpraz ama kullanacak ayağıyla havaya atar. Sonra X oyuncu zıplar ve yine kullanacak ayağıyla topu çarpraz ama havaya atar. Bu son iki işlemi çok yükseğe kadar çıkarlar. Son olarak ikisi aynı anda topa diklemesine iki ayağıyla, yere doğru vurur. Top bembeyaz olur ve hızla kaleye gider. </p>
 <h4>Oyuncular</h4>
 <ul>
-<li><a href="../../players/asena-deniz.php">Kemal Kiraz</a> ♂️</li>
+<li><a href="../../players/kemal-kiraz.php">Kemal Kiraz</a> ♂️</li>
 <ul><li><a href="../../players/feride-celiktepe.php">Feride Çeliktepe</a> ♀️</li></ul>
 </ul>
 
