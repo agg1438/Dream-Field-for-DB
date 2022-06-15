@@ -33,6 +33,12 @@
 <p align="center">Fire Excalibur</p>
 </div>
 
+<div class="col-md-4">
+<h6 align="center">FW</h6>
+<h4 align="center"><a href="hissatsutemple/fire-hell.php">Ateş Cehennemi</a></h4>
+<p align="center">Fire Hell</p>
+</div>
+
 
 </div>
 </div>

@@ -26,6 +26,12 @@
 <p align="center">Diamond Cut</p>
 </div>
 
+<div class="col-md-4">
+<h6 align="center">DF</h6>
+<h4 align="center"><a href="hissatsutemple/speed-cut.php">Hız Kayışı</a></h4>
+<p align="center">Speed Cut</p>
+</div>
+
 </div>
 
 
