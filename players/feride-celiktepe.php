@@ -14,7 +14,7 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>DF: <a href="../../hissatsutemple/diamon-cut.php">Elmas Kayışı [Diamond Cut]</a></li>
+<li>DF: <a href="../../hissatsutemple/diamond-cut.php">Elmas Kayışı [Diamond Cut]</a></li>
 <li>DF: <a href="../../hissatsutemple/speed-cut.php">Hız Kayışı [Speed Cut]</a></li>
 <li>DF: <a href="../../hissatsutemple/fire-hell.php">Ateş Cehennemi [Fire Hell]</a></li>
 </ul>

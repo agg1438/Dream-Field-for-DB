@@ -13,7 +13,7 @@
 <div class="row">
 <div class="col-md-6">
 <h4>Tanım</h4>
-<p>X oyuncu topu havaya atar, sonra y oyuncu zıplar. O da topu çarpraz ama havaya atar. Sonra X oyuncu zıplar ve yine topu çarpraz ama havaya atar. Bu son iki işlemi çok yükseğe kadar çıkarlar. Son olarak ikisi aynı anda topa diklemesine ama yere doğru vurur. Top simsiyah olur ve hızla kaleye gider. </p>
+<p>X oyuncu topu havaya atar, sonra y oyuncu zıplar. O da topu çarpraz ama kullanacak ayağıyla havaya atar. Sonra X oyuncu zıplar ve yine kullanacak ayağıyla topu çarpraz ama havaya atar. Bu son iki işlemi çok yükseğe kadar çıkarlar. Son olarak ikisi aynı anda topa diklemesine iki ayağıyla, yere doğru vurur. Top simsiyah olur ve hızla kaleye gider. </p>
 <h4>Oyuncular</h4>
 <ul>
 <li><a href="../../players/asena-deniz.php">Kemal Kiraz</a> ♂️</li>

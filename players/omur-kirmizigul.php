@@ -14,7 +14,7 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>DF: <a href="../../hissatsutemple/diamon-cut.php">Elmas Kayışı [Diamond Cut]</a></li>
+<li>DF: <a href="../../hissatsutemple/diamond-cut.php">Elmas Kayışı [Diamond Cut]</a></li>
 <li>FW: <a href="../../hissatsutemple/brown-diamonds.php">Kahverengi Elmaslar [Brown Diamonds]</a></li>
 <li>FW: <a href="../../hissatsutemple/diamond-arnold.php">Arnold'un Elması [Diamond Arnold]</a></li>
 </ul>
