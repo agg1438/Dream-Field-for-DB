@@ -32,18 +32,6 @@
 </div>
 </div>
 
-<br />
-<h3>Ergenler Ligi</h3>
-<br />
-
-<div class="row">
-<div class="col-md-4">
-<h1 align="center">🏫</h1>
-<h4 align="center"><a href="teams/cly.php">Lyoko Kodu FC<a/></h4>
-<p align="center">Code Lyoko FC</p>
-</div>
-</div>
-
 </div>
 
 <?php @include "footer.php" ?>
