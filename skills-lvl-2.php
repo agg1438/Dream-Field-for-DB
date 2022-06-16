@@ -22,12 +22,6 @@
 </div>
 
 <div class="col-md-4">
-<h6 align="center">GK</h6>
-<h4 align="center"><a href="hissatsutemple/lyoko-hand.php">Lyoko El</a></h4>
-<p align="center">Lyoko Hand</p>
-</div>
-
-<div class="col-md-4">
 <h6 align="center">FW</h6>
 <h4 align="center"><a href="hissatsutemple/fire-excalibur.php">Ateş Kılıcı</a></h4>
 <p align="center">Fire Excalibur</p>
