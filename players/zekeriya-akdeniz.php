@@ -14,16 +14,16 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>DF: <a href="../../hissatsutemple/ice-world.php">Buz Dünyası [Ice World]</a></li>
-<li>FW: <a href="../../hissatsutemple/x-water.php">Çarpı Suyu [X Water]</a></li>
-<li>GK: <a href="../../hissatsutemple/wing-save.php">Kanatlı Kurtarış [Wing Save]</a></li>
+<li>DF: <a href="../../superie/ice-world.php">Buz Dünyası [Ice World]</a></li>
+<li>FW: <a href="../../superie/x-water.php">Çarpı Suyu [X Water]</a></li>
+<li>GK: <a href="../../superie/wing-save.php">Kanatlı Kurtarış [Wing Save]</a></li>
 </ul>
 </div>
 
 <div class="col-md-6">
 <h4 align="center">Çoklu</h4>
 <li>BOŞ</li>
-<li>FW: <a href="../../hissatsutemple/diamond-hurricane.php">Elmas Kasırgası [Diamond Hurricane]</a></li>
+<li>FW: <a href="../../superie/diamond-hurricane.php">Elmas Kasırgası [Diamond Hurricane]</a></li>
 <p><a href="../../players/mehtap-yilmaz.php">Mehtap Yılmaz</a> ♀️ <a href="../../players/ayhan-akman.php">Ayhan Akman</a> ♂️ <a href="../../players/zekeriya-akdeniz.php">Zeynep Gökbulut</a> ♀️</p>
 
 </div>

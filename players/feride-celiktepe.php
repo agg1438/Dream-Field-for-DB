@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>DF: <a href="../../hissatsutemple/diamond-cut.php">Elmas Kayışı [Diamond Cut]</a></li>
-<li>DF: <a href="../../hissatsutemple/speed-cut.php">Hız Kayışı [Speed Cut]</a></li>
-<li>FW: <a href="../../hissatsutemple/fire-hell.php">Ateş Cehennemi [Fire Hell]</a></li>
+<li>DF: <a href="../../superie/diamond-cut.php">Elmas Kayışı [Diamond Cut]</a></li>
+<li>DF: <a href="../../superie/speed-cut.php">Hız Kayışı [Speed Cut]</a></li>
+<li>FW: <a href="../../superie/fire-hell.php">Ateş Cehennemi [Fire Hell]</a></li>
 </ul>
 </div>
 
@@ -24,10 +24,10 @@
 <h4 align="center">Çoklu</h4>
 <li>FW: BOŞ</li>
 
-<li>FW: <a href="../../hissatsutemple/demon-tornado.php">Şeytan Kasırgası [Demon Tornado]</a></li>
+<li>FW: <a href="../../superie/demon-tornado.php">Şeytan Kasırgası [Demon Tornado]</a></li>
 <p><a href="../../players/keiko-sakura.php">Keiko Sakura</a> ♀️</p>
 
-<li>FW: <a href="../../hissatsutemple/angel-sound.php">Melek Sesi [Angel Sound]</a></li>
+<li>FW: <a href="../../superie/angel-sound.php">Melek Sesi [Angel Sound]</a></li>
 <p><a href="../../players/kemal-kiraz.php">Kemal Kiraz</a> ♂️</p>
 
 </div>

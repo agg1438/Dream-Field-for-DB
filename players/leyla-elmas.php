@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>MF: <a href="../../hissatsutemple/ice-ball.php">Buz Topu [Ice Ball]</a></li>
-<li>FW: <a href="../../hissatsutemple/poison-flag.php">Zehirli Bayrak [Poison Flag]</a></li>
-<li>FW: <a href="../../hissatsutemple/scooters-life.php">Scooter Sever [Scooter's Life]</a></li>
+<li>MF: <a href="../../superie/ice-ball.php">Buz Topu [Ice Ball]</a></li>
+<li>FW: <a href="../../superie/poison-flag.php">Zehirli Bayrak [Poison Flag]</a></li>
+<li>FW: <a href="../../superie/scooters-life.php">Scooter Sever [Scooter's Life]</a></li>
 </ul>
 </div>
 

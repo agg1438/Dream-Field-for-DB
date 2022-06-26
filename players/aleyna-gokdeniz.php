@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>MF: <a href="../../hissatsutemple/water-dance.php">Su Dansı [Water Dance]</a></li>
-<li>FW: <a href="../../hissatsutemple/x-water.php">Çarpı Suyu [X Water]</a></li>
-<li>GK: <a href="../../hissatsutemple/water-echo.php">Suyun Yankısı [Water Echo]</a></li>
+<li>MF: <a href="../../superie/water-dance.php">Su Dansı [Water Dance]</a></li>
+<li>FW: <a href="../../superie/x-water.php">Çarpı Suyu [X Water]</a></li>
+<li>GK: <a href="../../superie/water-echo.php">Suyun Yankısı [Water Echo]</a></li>
 </ul>
 </div>
 

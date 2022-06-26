@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/fire-shoot.php">Ateş Vuruşu [Fire Shoot]</a></li>
-<li>FW: <a href="../../hissatsutemple/bomb-wing.php">Kanatlı Bomba [Bomb Wing]</a></li>
-<li>FW: <a href="../../hissatsutemple/elemental-circus.php">Element Sirki [Elemental Circus]</a></li>
+<li>FW: <a href="../../superie/fire-shoot.php">Ateş Vuruşu [Fire Shoot]</a></li>
+<li>FW: <a href="../../superie/bomb-wing.php">Kanatlı Bomba [Bomb Wing]</a></li>
+<li>FW: <a href="../../superie/elemental-circus.php">Element Sirki [Elemental Circus]</a></li>
 </ul>
 </div>
 

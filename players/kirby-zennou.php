@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>GK: <a href="../../hissatsutemple/the-star.php">Yıldız [The Star]</a></li>
-<li>GK: <a href="../../hissatsutemple/the-bomber.php">Bomba [The Bomber]</a></li>
-<li>GK: <a href="../../hissatsutemple/wing-save.php">Kanatlı Kurtarış [Wing Save]</a></li>
+<li>GK: <a href="../../superie/the-star.php">Yıldız [The Star]</a></li>
+<li>GK: <a href="../../superie/the-bomber.php">Bomba [The Bomber]</a></li>
+<li>GK: <a href="../../superie/wing-save.php">Kanatlı Kurtarış [Wing Save]</a></li>
 </ul>
 </div>
 

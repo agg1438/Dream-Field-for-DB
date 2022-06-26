@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/plus-shoot.php">Artı Vuruşu [+ Shoot]</a></li>
-<li>DF: <a href="../../hissatsutemple/diamond-cut.php">Elmas Kayışı [Diamond Cut]</a></li>
-<li>DF: <a href="../../hissatsutemple/wind-of-dance.php">Rüzgarın Dansı</a></li>
+<li>FW: <a href="../../superie/plus-shoot.php">Artı Vuruşu [+ Shoot]</a></li>
+<li>DF: <a href="../../superie/diamond-cut.php">Elmas Kayışı [Diamond Cut]</a></li>
+<li>DF: <a href="../../superie/wind-of-dance.php">Rüzgarın Dansı</a></li>
 </ul>
 </div>
 

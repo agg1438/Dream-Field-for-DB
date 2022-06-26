@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/fire-excalibur.php">Ateş Kılıcı [Fire Excalibur]</a></li>
-<li>FW: <a href="../../hissatsutemple/checkmate.php">Şah Mat [Checkmate]</a></li>
-<li>DF: <a href="../../hissatsutemple/energy-zone.php">Enerji Bölgesi</a></li>
+<li>FW: <a href="../../superie/fire-excalibur.php">Ateş Kılıcı [Fire Excalibur]</a></li>
+<li>FW: <a href="../../superie/checkmate.php">Şah Mat [Checkmate]</a></li>
+<li>DF: <a href="../../superie/energy-zone.php">Enerji Bölgesi</a></li>
 </ul>
 </div>
 

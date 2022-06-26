@@ -15,9 +15,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/the-master.php">Usta [The Master]</a></li>
-<li>FW: <a href="../../hissatsutemple/coreworld.php">Dünya Çekirdeği [Coreworld]</a> <b>YASAKLI</b></li>
-<li>FW: <a href="../../hissatsutemple/killer-hearth.php">Kalp Delici [Killer Hearth]</a> <b>YASAKLI</b></li>
+<li>FW: <a href="../../superie/the-master.php">Usta [The Master]</a></li>
+<li>FW: <a href="../../superie/coreworld.php">Dünya Çekirdeği [Coreworld]</a> <b>YASAKLI</b></li>
+<li>FW: <a href="../../superie/killer-hearth.php">Kalp Delici [Killer Hearth]</a> <b>YASAKLI</b></li>
 </ul>
 <h4>Not</h4>
 Bu adam Elmas Ordu FC'deki maçın sonunda ölüyor.

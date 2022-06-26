@@ -14,18 +14,18 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>MF: <a href="../../hissatsutemple/aqua-gravity.php">Su Yerçekimi [Aqua Gravity]</a></li>
-<li>FW: <a href="../../hissatsutemple/x-water.php">Çarpı Suyu [X Water]</a></li>
-<li>FW: <a href="../../hissatsutemple/demon-dragon.php">Şeytan Ejderha [Demon Dragon]</a></li>
+<li>MF: <a href="../../superie/aqua-gravity.php">Su Yerçekimi [Aqua Gravity]</a></li>
+<li>FW: <a href="../../superie/x-water.php">Çarpı Suyu [X Water]</a></li>
+<li>FW: <a href="../../superie/demon-dragon.php">Şeytan Ejderha [Demon Dragon]</a></li>
 </ul>
 </div>
 
 <div class="col-md-6">
 <h4 align="center">Çoklu</h4>
-<li>FW: <a href="../../hissatsutemple/yinyang-attack.php">Yin-yang Saldırısı [Yin-yang Attack]</a></li>
+<li>FW: <a href="../../superie/yinyang-attack.php">Yin-yang Saldırısı [Yin-yang Attack]</a></li>
 <p><a href="../../players/mylene-rose.php">Myléne Rosé</a> ♀️ </p>
 
-<li>FW: <a href="../../hissatsutemple/demon-tornado.php">Şeytan Kasırgası [Demon Tornado]</a></li>
+<li>FW: <a href="../../superie/demon-tornado.php">Şeytan Kasırgası [Demon Tornado]</a></li>
 <p><a href="../../players/feride-celiktepe.php">Feride Çeliktepe</a> ♀️
 
 </div>

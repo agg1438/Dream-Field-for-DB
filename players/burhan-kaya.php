@@ -24,7 +24,7 @@
 <h4 align="center">Çoklu</h4>
 <li>BOŞ</li>
 <li>BOŞ</li>
-<li>FW: <a href="../../hissatsutemple/demon-sound.php">Şeytan Sesi [Demon Sound]</a></li>
+<li>FW: <a href="../../superie/demon-sound.php">Şeytan Sesi [Demon Sound]</a></li>
 <p><a href="../../players/aiko-matsukaze.php">Aiko Matsukaze</a> ♀️</p>
 
 </div>

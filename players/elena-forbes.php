@@ -14,18 +14,18 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/boycotto-attack.php">Boykot Saldırısı [Boycotto Attack]</a></li>
-<li>FW: <a href="../../hissatsutemple/rainbow-head.php">Gökkuşağı Kafası [Rainbow Head]</a></li>
-<li>FW: <a href="../../hissatsutemple/combo-shot.php">Kombo Şutu [Combo Shot]</a></li>
+<li>FW: <a href="../../superie/boycotto-attack.php">Boykot Saldırısı [Boycotto Attack]</a></li>
+<li>FW: <a href="../../superie/rainbow-head.php">Gökkuşağı Kafası [Rainbow Head]</a></li>
+<li>FW: <a href="../../superie/combo-shot.php">Kombo Şutu [Combo Shot]</a></li>
 </ul>
 </div>
 
 <div class="col-md-6">
 <h4 align="center">Çoklu</h4>
 <li>BOŞ</li>
-<li>FW: <a href="../../hissatsutemple/diamond-hurricane.php">Elmas Kasırgası [Diamond Hurricane]</a></li>
+<li>FW: <a href="../../superie/diamond-hurricane.php">Elmas Kasırgası [Diamond Hurricane]</a></li>
 <p><a href="../../players/ayhan-gazi-gulcu.php">Ayhan Gazi Gülcü</a> ♂️ <a href="../../players/mylene-rose.php">Myléne Rosé</a> ♀️ <a href="../../players/asena-deniz.php">Asena Deniz</a> ♀️
-<li>FW: <a href="../../hissatsutemple/zigzag-combo.php">Zigzag Kombosu [Zigzag Combo]</a></li>
+<li>FW: <a href="../../superie/zigzag-combo.php">Zigzag Kombosu [Zigzag Combo]</a></li>
 <p><a href="../../players/mylene-rose.php">Myléne Rosé</a> ♀️
 
 

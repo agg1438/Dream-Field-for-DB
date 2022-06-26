@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>DF: <a href="../../hissatsutemple/red-head.php">Kırmızı Kafa [Red Head]</a></li>
-<li>FW: <a href="../../hissatsutemple/brown-diamonds.php">Kahverengi Elmaslar [Brown Diamonds]</a></li>
-<li>FW: <a href="../../hissatsutemple/fire-navigation.php">Ateş Navigasyonu [Fire Navigation]</a></li>
+<li>DF: <a href="../../superie/red-head.php">Kırmızı Kafa [Red Head]</a></li>
+<li>FW: <a href="../../superie/brown-diamonds.php">Kahverengi Elmaslar [Brown Diamonds]</a></li>
+<li>FW: <a href="../../superie/fire-navigation.php">Ateş Navigasyonu [Fire Navigation]</a></li>
 </ul>
 </div>
 

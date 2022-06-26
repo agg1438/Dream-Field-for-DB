@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>GK: <a href="../../hissatsutemple/big-hand.php">Büyük El [Big Hand]</a></li>
-<li>GK: <a href="../../hissatsutemple/sword-dance.php">Kılıç Dansı [Sword Dance]</a></li>
-<li>GK: <a href="../../hissatsutemple/la-flamme.php">Alev [La Flamme]</a></li>
+<li>GK: <a href="../../superie/big-hand.php">Büyük El [Big Hand]</a></li>
+<li>GK: <a href="../../superie/sword-dance.php">Kılıç Dansı [Sword Dance]</a></li>
+<li>GK: <a href="../../superie/la-flamme.php">Alev [La Flamme]</a></li>
 </ul>
 </div>
 

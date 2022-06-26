@@ -1,9 +1,9 @@
 <?php @include "header.php" ?>
 
-<title> Dream Field DB Sitesi - Ölümcüller - Seviye 1</title>
+<title> Dream Field DB Sitesi - Superie - Seviye 1</title>
 
 <div class="container">
-<h2 align="center">Ölümcüller - Seviye 1</h2>
+<h2 align="center">Superie - Seviye 1</h2>
 
  <ul class="pagination pagination-lg">
   <li class="page-item disabled" ><a class="page-link" href="#">Seviyeler: </a></li>

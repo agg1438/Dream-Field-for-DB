@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/navigation-arrow.php">Navigasyon Ok [Navigation Arrow]</a></li>
-<li>DF: <a href="../../hissatsutemple/dragon-diamond.php">Ejderhanın Elması [Dragon Diamond]</a></li>
-<li>DF: <a href="../../hissatsutemple/fire-cut.php">Ateş Kesişi</a></li>
+<li>FW: <a href="../../superie/navigation-arrow.php">Navigasyon Ok [Navigation Arrow]</a></li>
+<li>DF: <a href="../../superie/dragon-diamond.php">Ejderhanın Elması [Dragon Diamond]</a></li>
+<li>DF: <a href="../../superie/fire-cut.php">Ateş Kesişi</a></li>
 </ul>
 </div>
 

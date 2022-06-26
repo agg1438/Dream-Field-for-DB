@@ -15,9 +15,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>GK: <a href="../../hissatsutemple/water-catch.php">Su Kurtarışı [Water Catch]</a></li>
-<li>GK: <a href="../../hissatsutemple/bubble-smash.php">Kabarcığı Patlat [Bubble Smash]</a></li>
-<li>GK: <a href="../../hissatsutemple/bubble-bobble.php">Nefsi Kabarcık [Bubble Bobble]</a></li>
+<li>GK: <a href="../../superie/water-catch.php">Su Kurtarışı [Water Catch]</a></li>
+<li>GK: <a href="../../superie/bubble-smash.php">Kabarcığı Patlat [Bubble Smash]</a></li>
+<li>GK: <a href="../../superie/bubble-bobble.php">Nefsi Kabarcık [Bubble Bobble]</a></li>
 </ul>
 </div>
 

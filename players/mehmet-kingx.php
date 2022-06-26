@@ -14,16 +14,16 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/dark-shot.php">Karanlık Şutu [Dark Shot]</a></li>
-<li>MF: <a href="../../hissatsutemple/dark-pass.php">Karanlık Pas [Dark Pass]</a></li>
-<li>FW: <a href="../../hissatsutemple/dark-turn.php">Karanlık Dönüş [Dark Turn]</a></li>
+<li>FW: <a href="../../superie/dark-shot.php">Karanlık Şutu [Dark Shot]</a></li>
+<li>MF: <a href="../../superie/dark-pass.php">Karanlık Pas [Dark Pass]</a></li>
+<li>FW: <a href="../../superie/dark-turn.php">Karanlık Dönüş [Dark Turn]</a></li>
 </ul>
 </div>
 
 <div class="col-md-6">
 <h4 align="center">Çoklu</h4>
 <li>BOŞ</li>
-<li>FW: <a href="../../hissatsutemple/triple-rainbow.php">Üçlü Gökkuşağı [Triple Rainbow]</a></li>
+<li>FW: <a href="../../superie/triple-rainbow.php">Üçlü Gökkuşağı [Triple Rainbow]</a></li>
 <p><a href="../../players/omur-kirmizigul.php">Ömür Kırmızıgül</a> ♂️ <a href="../../players/metin-bulut.php">Metin Bulut</a> ♂️ </p>
 
 </div>

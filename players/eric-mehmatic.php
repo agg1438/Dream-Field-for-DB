@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>DF: <a href="../../hissatsutemple/drifting-bomb.php">Bomba Kayışı [Drifting Bomb]</a></li>
-<li>GK: <a href="../../hissatsutemple/wing-save.php">Kanatlı Kurtarış [Wing Save]</a></li>
-<li>GK: <a href="../../hissatsutemple/the-master.php">Usta [The Master]</a></li>
+<li>DF: <a href="../../superie/drifting-bomb.php">Bomba Kayışı [Drifting Bomb]</a></li>
+<li>GK: <a href="../../superie/wing-save.php">Kanatlı Kurtarış [Wing Save]</a></li>
+<li>GK: <a href="../../superie/the-master.php">Usta [The Master]</a></li>
 </ul>
 </div>
 

@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>MF: <a href="../../hissatsutemple/monster-eye.php">Canavar Gözü [Monster Eye]</a></li>
-<li>GK: <a href="../../hissatsutemple/math-symbol.php">Matematiksel Semboller [Math Symbol]</a></li>
-<li>FW: <a href="../../hissatsutemple/hat-cheat.php">Hileli Şapka [Hat Cheat]</a></li>
+<li>MF: <a href="../../superie/monster-eye.php">Canavar Gözü [Monster Eye]</a></li>
+<li>GK: <a href="../../superie/math-symbol.php">Matematiksel Semboller [Math Symbol]</a></li>
+<li>FW: <a href="../../superie/hat-cheat.php">Hileli Şapka [Hat Cheat]</a></li>
 </ul>
 </div>
 

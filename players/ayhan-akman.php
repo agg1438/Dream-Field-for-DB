@@ -14,16 +14,16 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/fire-excalibur.php">Ateş Kılıcı [Fire Excalibur]</a></li>
-<li>FW: <a href="../../hissatsutemple/bomb-wing.php">Kanatlı Bomba [Bomb Wing]</a></li>
-<li>DF: <a href="../../hissatsutemple/fire-cut.php">Ateş Kesişi [Fire Cut]</a></li>
+<li>FW: <a href="../../superie/fire-excalibur.php">Ateş Kılıcı [Fire Excalibur]</a></li>
+<li>FW: <a href="../../superie/bomb-wing.php">Kanatlı Bomba [Bomb Wing]</a></li>
+<li>DF: <a href="../../superie/fire-cut.php">Ateş Kesişi [Fire Cut]</a></li>
 </ul>
 </div>
 
 <div class="col-md-6">
 <h4 align="center">Çoklu</h4>
 <li>BOŞ</li>
-<li>FW: <a href="../../hissatsutemple/diamond-hurricane.php">Elmas Kasırgası [Diamond Hurricane]</a></li>
+<li>FW: <a href="../../superie/diamond-hurricane.php">Elmas Kasırgası [Diamond Hurricane]</a></li>
 <p><a href="../../players/mehtap-yilmaz.php">Mehtap Yılmaz</a> ♀️ <a href="../../players/zekeriya-akdeniz.php">Zekeriya Akdeniz</a> ♂️ <a href="../../players/zekeriya-akdeniz.php">Zeynep Gökbulut</a> ♀️</p>
 
 </div>

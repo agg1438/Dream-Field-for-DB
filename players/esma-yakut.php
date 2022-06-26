@@ -15,9 +15,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>FW: <a href="../../hissatsutemple/the-master.php">Usta [The Master]</a></li>
-<li>FW: <a href="../../hissatsutemple/rainbow-heat.php">Gökkuşağı Kafası [Rainbow Head]</a></li>
-<li>FW: <a href="../../hissatsutemple/rose-of-poison.php">Zehirli Çiçek [Rose of Poison]</a> <b>YASAKLI</b></li>
+<li>FW: <a href="../../superie/the-master.php">Usta [The Master]</a></li>
+<li>FW: <a href="../../superie/rainbow-heat.php">Gökkuşağı Kafası [Rainbow Head]</a></li>
+<li>FW: <a href="../../superie/rose-of-poison.php">Zehirli Çiçek [Rose of Poison]</a> <b>YASAKLI</b></li>
 </ul>
 </div>
 

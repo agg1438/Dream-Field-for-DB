@@ -14,9 +14,9 @@
 <div class="col-md-6">
 <h4 align="center"> Tekli</h4>
 <ul>
-<li>GK: <a href="../../hissatsutemple/math-symbol.php">Matematiksel Semboller [Math Symbol]</a></li>
-<li>GK: <a href="../../hissatsutemple/yin-yang-save.php">Yin-yang Kurtarışı [Yin-yang Save]</a></li>
-<li>FW: <a href="../../hissatsutemple/energy-zone.php">Enerji Bölgesi [Energy Zone]</a></li>
+<li>GK: <a href="../../superie/math-symbol.php">Matematiksel Semboller [Math Symbol]</a></li>
+<li>GK: <a href="../../superie/yin-yang-save.php">Yin-yang Kurtarışı [Yin-yang Save]</a></li>
+<li>FW: <a href="../../superie/energy-zone.php">Enerji Bölgesi [Energy Zone]</a></li>
 </ul>
 </div>
 
